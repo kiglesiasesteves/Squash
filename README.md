@@ -26,7 +26,22 @@ Este repositorio es un ejemplo para ilustrar el proceso de colaboración en un p
    - El líder actualiza su copia local del repositorio utilizando el comando `git fetch`.
 
 7. **Líder realiza Squash:**
-   - Se lleva a cabo el squash para combinar los commits del colaborador en uno solo. 
+   - Se lleva a cabo el squash para combinar los commits del colaborador en uno solo por terminal.
+
+8. **Líder realiza Commit D1:**
+   - El colaborador empieza a trabajar en el proyecto y realiza el primer commit, marcado como D1.
+
+9. **Líder realiza Commit D2:**
+   - Se continúa con el trabajo, y el colaborador realiza el segundo commit, marcado como D2.
+
+10. **Líder realiza Commit D3:**
+   - Más contribuciones del colaborador, que se reflejan en el tercer commit, marcado como D3.
+
+11. **Líder realiza el Pull Request:**
+   - En Github realiza un Pull Request para combinar las ramas con un squash.
+
+12. **Líder realiza Squash:**
+   - Se lleva a cabo el squash para combinar los commits del colaborador en uno solo por el Github.
 
 ---
 
