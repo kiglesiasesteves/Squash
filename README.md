@@ -14,7 +14,7 @@ Este repositorio es un ejemplo para ilustrar el proceso de colaboración en un p
    - Se añaden nuevas funcionalidades o se realizan modificaciones, y el líder realiza el segundo commit, marcado como B.
 
 3. **Colaborador realiza Commit C1:**
-   - El colaborador empieza a trabajar en el proyecto y realiza el primer commit, marcado como C1.
+   - El colaborador empieza a trabajar en el proyecto y para eso crea una nueva rama con su nombre y realiza el primer commit, marcado como C1.
 
 4. **Colaborador realiza Commit C2:**
    - Se continúa con el trabajo, y el colaborador realiza el segundo commit, marcado como C2.
